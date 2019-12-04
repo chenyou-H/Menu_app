@@ -10,13 +10,14 @@ The user will only have one gui page in a time, and they can always click “bac
 
 Homepage
 
-![alt text](./guiPic/LoginGUI.JPG "LoginGUI")
 
 Customer Side
 
-![alt text](./guiPic/Menu_Index_GUI.JPG "Menu_Index_GUI 1")
+![alt text](./guiPic/LoginGUI.JPG "LoginGUI")
 
 Display Restaurants
+
+![alt text](./guiPic/Menu_Index_GUI.JPG "Menu_Index_GUI 1")
 
 The user can click the button “Find near restaurants” to sort the restaurants by distance. 
 
