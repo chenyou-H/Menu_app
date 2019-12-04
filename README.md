@@ -1,5 +1,7 @@
 # Menu app
 
+(P.S if someone want to use this app, he needs to have a database, and adjust the database information in JDBC.java)
+
 The project is written by Java. The GUI is made up of java.swing.
 
 The database is oracle SQL Server.
@@ -8,7 +10,9 @@ The user will only have one gui page in a time, and they can always click “bac
 
 Homepage
 ![alt text](./guiPic/LoginGUI.JPG "Logo Title Text 1")
+
 Customer Side
+
 
 Display Restaurants
 

@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
 
 public class JDBC {
 	String driverName="com.microsoft.sqlserver.jdbc.SQLServerDriver";
-	String dbURL="jdbc:sqlserver://localhost:1433;DatabaseName=Restaurant;user=admin;password=admin";
+	String dbURL="jdbc:sqlserver://localhost:1433;DatabaseName=Restaurant;user=myUsername;password=myPassword";
 	Connection dbConn;
 	
 	JDBC(){
